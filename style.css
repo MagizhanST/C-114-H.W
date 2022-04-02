@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+}
+h3, input{
+    text-align: center;
+    font-weight: 690;
+    margin-top: 20px;
+}
+div{
+    align-items: center;
+}
+
+canvas, input{
+    border: 1px solid black;
+}
